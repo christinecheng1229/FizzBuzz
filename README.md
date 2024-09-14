@@ -365,6 +365,7 @@ And that's it for the first lab activity of the term!
 
 ## Coding homework for this week
 See the Week 2 module on Quercus for how to get started on the part of the homework related to the above two problems.
+~~ testing repo ~~
 
 ## Learning Java
 You should start working through the learning Java materials available on Quercus. This will more formally
