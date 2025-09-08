@@ -9,7 +9,7 @@ class FizzBuzz {
         int i = 1;
         while (i < 100) {
             doFizzBuzz(i);
-            i++;
+            i++;    // don't need to include this in the helper/refactored method
         }
     }
 
